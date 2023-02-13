@@ -1,0 +1,1 @@
+npm install discord.js & npm i discord.js @discordjs/rest discord-api-types & npm i plist os-utils
